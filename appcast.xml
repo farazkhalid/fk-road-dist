@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Palenque Agent</title>
+        <item>
+            <title>0.2.0</title>
+            <pubDate>Wed, 12 Aug 2026 22:49:35 +0400</pubDate>
+            <link>https://github.com/farazkhalid/fk-road-dist</link>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/farazkhalid/fk-road-dist/raw/main/releases/Palenque-Agent-0.2.0.zip" length="2045027" type="application/octet-stream" sparkle:edSignature="dLteHFpGP4pjQSQAXj3XeQ1Wg787+r8Xsv6iqVsegzs+McqT6CoWc147ZcdRqwVaGrPwnbNprZfCfQsTpTzhAQ=="/>
+        </item>
+    </channel>
+</rss>
