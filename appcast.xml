@@ -3,6 +3,20 @@
     <channel>
         <title>Palenque Agent</title>
         <item>
+            <title>0.4.0</title>
+            <pubDate>Fri, 14 Aug 2026 05:57:24 +0400</pubDate>
+            <link>https://github.com/farazkhalid/fk-road-dist</link>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/farazkhalid/fk-road-dist/raw/main/releases/Palenque-Agent-0.4.0.zip" length="2058280" type="application/octet-stream" sparkle:edSignature="cAKorLylUpWX5T6G3fNHE+Py3J8Kic0TUppZAac8Fe/kAUj43V3p5Zh8yFrdWS9wlCE5zAKtejL9qt6n+OVzDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/farazkhalid/fk-road-dist/raw/main/releases/Palenque%20Agent4-3.delta" sparkle:deltaFrom="3" length="151594" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="MUtxlGWmVnJH3CLAwqzVu0Qd4yglq6ViK+9xGiSAgMU3AU0mVG8KsmCTQD5GJJL0C6xsOnNSRsUsaxW4NF7eDA=="/>
+                <enclosure url="https://github.com/farazkhalid/fk-road-dist/raw/main/releases/Palenque%20Agent4-2.delta" sparkle:deltaFrom="2" length="197730" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="a10grd9Y+yomQlFAT1VlIdwU6U0Z0lRwYw3VxhvpMOqduZG09TcYoMB1NUXnyH79GBjaQqPjl3+VM14rQF58AQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.3.0</title>
             <pubDate>Fri, 14 Aug 2026 01:55:49 +0400</pubDate>
             <link>https://github.com/farazkhalid/fk-road-dist</link>
